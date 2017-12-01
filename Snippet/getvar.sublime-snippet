@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:PRIVATE} FUNC_GETVAR("${2:varName}");
+]]></content>
+	<tabTrigger>FUNC_GETVAR</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop function</description>
+</snippet>

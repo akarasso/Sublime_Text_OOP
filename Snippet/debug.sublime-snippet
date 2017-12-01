@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+DEBUG(${1:#}, "${2:class}::${3:function}")
+$4
+]]></content>
+	<tabTrigger>DEBUG</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop debug</description>
+</snippet>

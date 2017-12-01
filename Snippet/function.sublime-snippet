@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:PUBLIC} FUNCTION("$2","${3:functionName}") {
+	$4
+};
+]]></content>
+	<tabTrigger>FUNCTION</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop function</description>
+</snippet>

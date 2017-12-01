@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:PUBLIC} FUNCTION("","deconstructor") { 
+	$2
+};
+]]></content>
+	<tabTrigger>deconstructor</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop deconstructor..</description>
+</snippet>

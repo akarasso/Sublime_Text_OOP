@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+CLASS("OO_${1:className}")
+	$2
+ENDCLASS;
+]]></content>
+	<tabTrigger>CLASS</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop class</description>
+</snippet>

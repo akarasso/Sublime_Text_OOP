@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+DELETE_VARIABLE("${1:varName}");
+$2
+]]></content>
+	<tabTrigger>DELETE_VARIABLE</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop delete var..</description>
+</snippet>

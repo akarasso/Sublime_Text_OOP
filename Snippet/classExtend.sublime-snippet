@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+CLASS_EXTENDS("OO_${1:childClass}", "OO_${2:parentClass}")
+	$3
+ENDCLASS;
+]]></content>
+	<tabTrigger>CLASS_EXTENDS</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop class</description>
+</snippet>

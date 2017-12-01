@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:PUBLIC} VARIABLE("$2", $3);
+$4
+]]></content>
+	<tabTrigger>VARIABLE</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop var</description>
+</snippet>

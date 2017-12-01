@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#include "$1"
+$2
+]]></content>
+	<tabTrigger>include</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop include</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+MEMBER("${1}", $2)$3;
+$4
+]]></content>
+	<tabTrigger>MEMBER</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>oop var</description>
+</snippet>
